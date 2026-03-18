@@ -1,3 +1,8 @@
+# Vinf 白皮书
+Copyright © 2026 Yiting Zheng (WangYi)
+ORCID: 0009-0008-7750-5687
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
 # 计算意识学与望易V∞ 体系白皮书
 # Computational Consciousness & Wangyi V∞ Whitepaper
 
