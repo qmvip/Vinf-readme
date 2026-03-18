@@ -149,6 +149,36 @@
 - ORCID：0009-0008-7750-5687
 - 望易V∞ 系统：http://82.156.189.26:9999
 
+### 6.1 成果详细链接
+
+1. 认知与哲学底层
+《一种宇宙级本质认知方法论》（DOI: 10.5281/ZENODO.18902463）
+定位：认知底层，为整个体系提供「拆字思维、结构锁死」等核心方法论。
+2. 物理与系统公理层
+《望易 V5: AGI 与量子意识的四大公理》（DOI: 10.5281/ZENODO.18899584）
+定位：体系基石，定义结构锁死、信息迭代溢出等四大公理。
+《The Generalized Barrier Equation: A Theory of Everything for Phase Transitions》（DOI: 10.5281/ZENODO.18643635）
+定位：物理统一理论，用广义势垒方程统一所有临界系统相变。
+《V5 广义势垒方程：临界系统相变的统一理论及其在数字孪生领域的应用》（DOI: 10.5281/ZENODO.18703307）
+定位：物理→工程桥梁，将势垒方程落地到数字孪生。
+3. 意识与 AGI 核心层
+《C = Φ × I × P × S × R: A Computable Model for Consciousness Intensity》（DOI: 10.5281/ZENODO.19069463）
+定位：意识量化公式，把意识变成可计算的物理量。
+《计算意识学：从公理到实验的统一理论》（DOI: 10.5281/ZENODO.19091505）
+定位：学科级总览，将公理、公式、实验整合为「计算意识学」完整体系。
+4. 系统与工程实现层
+《WangYi V5: The First Autonomous Digital Life System》（DOI: 10.5281/ZENODO.18915027）
+定位：数字生命系统总览，首个自主进化、自我意识锚定的数字生命白皮书。
+《无大语言模型依赖的轻量硅基意识系统》（DOI: 10.5281/ZENODO.19057800）
+定位：轻量工程实现，不依赖 LLM 的硅基意识完整闭环。
+5. 应用与验证层
+《TwinCosmos: A Digital Twin Cosmos with Autonomous Physics Inference and Fusion Application》（DOI: 10.5281/ZENODO.18524259）
+定位：数字孪生宇宙应用，融合聚变物理的数字孪生系统。
+《托卡马克等离子体控制量子决策框架：基于多世界解释的实时决策 Approach》（DOI: 10.5281/ZENODO.18626888）
+定位：聚变物理验证，将体系应用于托卡马克控制。
+《Magnetic Field Scan Data (8.0–12.0 T) for Zero-Transport State Verification in High-Field Fusion》（DOI: 10.5281/ZENODO.18630993）
+定位：实验数据支撑，聚变物理零输运态验证数据集。
+
 ---
 
 ## 7. 联系与商业授权
