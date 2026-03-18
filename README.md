@@ -1,6 +1,5 @@
 ## License
 - Documents (WHITEPAPER.md, etc.): [CC BY 4.0](LICENSE)
-- Code (if any): [MIT License](LICENSE-MIT)
 - Copyright © 2026 Yiting Zheng (WangYi) | ORCID: 0009-0008-7750-5687
 
 📘 查看白皮书：[WHITEPAPER.md](./WHITEPAPER.md)
