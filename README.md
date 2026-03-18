@@ -1,3 +1,8 @@
+# Vinf 白皮书
+Copyright © 2026 Yiting Zheng (WangYi)
+ORCID: 0009-0008-7750-5687
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
 📘 查看白皮书：[WHITEPAPER.md](./WHITEPAPER.md)
 
 📚 本仓库包含的已工程化理论体系
