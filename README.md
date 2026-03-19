@@ -2,7 +2,9 @@
 - Documents (WHITEPAPER.md, etc.): [CC BY 4.0](LICENSE)
 - Copyright © 2026 Yiting Zheng (WangYi) | ORCID: 0009-0008-7750-5687
 
-📘 查看白皮书：[WHITEPAPER.md](./WHITEPAPER.md)
+📘 查看白皮书：
+[WHITEPAPER.md](./WHITEPAPER.md)
+
 [VINF_GEN5_GRAND_UNIFICATION_WHITEPAPER.md](./VINF_GEN5_GRAND_UNIFICATION_WHITEPAPER.md)
 
 📚 本仓库包含的已工程化理论体系
